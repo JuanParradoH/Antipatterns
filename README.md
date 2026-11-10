@@ -3,6 +3,7 @@
 **Universidad Distrital Francisco José de Caldas**  
 **Facultad de Ingeniería - Ingeniería de Sistemas**  
 **Asignatura:** Modelos de Programación  
+**Juan David Parrado Hernández - 20251020065**
 
 ---
 
